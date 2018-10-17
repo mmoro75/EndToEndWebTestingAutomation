@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6029" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6029" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:22Z">
+      <class name="EndToEndWebTesting.AutomationWebTests.WebTests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="SetUp" is-config="true" duration-ms="2324" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="Login" duration-ms="2042" started-at="2018-10-17T10:42:19Z" data-provider="getData" finished-at="2018-10-17T10:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mmoro@yahoo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passwABC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="Login" duration-ms="912" started-at="2018-10-17T10:42:21Z" data-provider="getData" finished-at="2018-10-17T10:42:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gino@yahoo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passDEF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="TearDown" is-config="true" duration-ms="730" started-at="2018-10-17T10:42:21Z" finished-at="2018-10-17T10:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- EndToEndWebTesting.AutomationWebTests.WebTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
