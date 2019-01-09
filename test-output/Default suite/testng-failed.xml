@@ -5,8 +5,7 @@
     <classes>
       <class name="EndToEndWebTesting.AutomationWebTests.WebTests">
         <methods>
-          <include name="Login" invocation-numbers="0 1"/>
-          <include name="TearDown"/>
+          <include name="SummerDresses"/>
           <include name="SetUp"/>
         </methods>
       </class> <!-- EndToEndWebTesting.AutomationWebTests.WebTests -->

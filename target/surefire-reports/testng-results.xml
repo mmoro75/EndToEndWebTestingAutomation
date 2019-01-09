@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6029" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:22Z">
+  <suite name="Suite" duration-ms="12363" started-at="2018-10-18T16:08:39Z" finished-at="2018-10-18T16:08:52Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6029" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:22Z">
+    <test name="Test" duration-ms="12363" started-at="2018-10-18T16:08:39Z" finished-at="2018-10-18T16:08:52Z">
       <class name="EndToEndWebTesting.AutomationWebTests.WebTests">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="SetUp" is-config="true" duration-ms="2324" started-at="2018-10-17T10:42:16Z" finished-at="2018-10-17T10:42:19Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@8317c52]" name="SetUp" is-config="true" duration-ms="6876" started-at="2018-10-18T16:08:39Z" finished-at="2018-10-18T16:08:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="Login" duration-ms="2042" started-at="2018-10-17T10:42:19Z" data-provider="getData" finished-at="2018-10-17T10:42:21Z">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@8317c52]" name="Login" duration-ms="2094" started-at="2018-10-18T16:08:46Z" data-provider="getData" finished-at="2018-10-18T16:08:48Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="Login" duration-ms="912" started-at="2018-10-17T10:42:21Z" data-provider="getData" finished-at="2018-10-17T10:42:21Z">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@8317c52]" name="Login" duration-ms="2662" started-at="2018-10-18T16:08:48Z" data-provider="getData" finished-at="2018-10-18T16:08:51Z">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@69fb6037]" name="TearDown" is-config="true" duration-ms="730" started-at="2018-10-17T10:42:21Z" finished-at="2018-10-17T10:42:22Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:EndToEndWebTesting.AutomationWebTests.WebTests@8317c52]" name="TearDown" is-config="true" duration-ms="717" started-at="2018-10-18T16:08:51Z" finished-at="2018-10-18T16:08:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
